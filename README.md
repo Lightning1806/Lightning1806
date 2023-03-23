@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Aynodkar</h1>
-<h3 align="center">Namaste! I'm Vishal, a Java and Android developer hailing from India. My passion for programming has led me to explore the world of mobile app development, and I love creating innovative and user-friendly apps that make a difference in people's lives. When I'm not coding, you can find me exploring new places, trying out new cuisines, and indulging in my love for photography. Let's connect and build something awesome together!</h3>
+<h3 align="center">Namaste! I'm Vishal, a Java and Mobile App developer hailing from India. My passion for programming has led me to explore the world of mobile app development, and I love creating innovative and user-friendly apps that make a difference in people's lives. When I'm not coding, you can find me exploring new places, trying out new cuisines, and indulging in my love for photography. Let's connect and build something awesome together!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lightning1806" alt="lightning1806" /></a> </p>
 
@@ -21,4 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lightning1806&show_icons=true&locale=en&layout=compact" alt="lightning1806" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lightning1806&show_icons=true&locale=en" alt="lightning1806" /></p>
+<p>&nbsp;<img align="center" sr
+c="https://github-readme-stats.vercel.app/api?username=lightning1806&show_icons=true&locale=en" alt="lightning1806" /></p>
